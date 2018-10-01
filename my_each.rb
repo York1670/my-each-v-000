@@ -1,6 +1,7 @@
-def my_each # put argument(s) here
-  my_each do
+def my_each(arrays)
+  
+  my_each(arrays) do
     while
     end
-  end# code here
+  end # code here
 end
